@@ -35,6 +35,8 @@ Aplicação desenvolvida consiste no desenvolvimento de um jogo básico de pergu
 
 ## 🖼️ Screenshots <a name="screenshots"></a>
 
+ (dessa vez sem vídeo de demonstração para não entregar a resposta das perguntas)
+
 <div align="center">
   
   ### Menu
